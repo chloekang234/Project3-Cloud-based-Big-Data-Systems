@@ -8,7 +8,15 @@ In this project,
 
 1. upload the big dataset to Amazon S3
 
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/104106034/227032643-cf5c24e0-a730-48f0-904a-10689951f765.png">
+
+<img width="1395" alt="image" src="https://user-images.githubusercontent.com/104106034/227032721-365b63a8-416f-4251-bd4e-ceb739100513.png">
+
 2. Create Notebook Instances in Amazon SageMaker
+<img width="1426" alt="image" src="https://user-images.githubusercontent.com/104106034/227032809-51e38718-8cc2-4ec0-9b1c-4352494495a2.png">
+
+<img width="1063" alt="image" src="https://user-images.githubusercontent.com/104106034/227032887-21c832a9-e27f-4619-bfd2-c84ca9553a8d.png">
+
 
 3. Data Preprocessing
 
